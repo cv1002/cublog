@@ -1,1 +1,5 @@
+# vscode配置文件
 .vscode
+
+# vscode counter 代码统计器统计结果文件
+.VSCodeCounter
